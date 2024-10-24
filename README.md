@@ -1,9 +1,9 @@
-# ReadMe-Generator
+# Readme generator
 ![License](https://img.shields.io/badge/license-MIT-brightgreen.svg)
 
 ## Description
 
-Simple functions to create a Reade as im doing now
+A readme generator
 
 ## Table of Contents 
 
@@ -21,12 +21,12 @@ Simple functions to create a Reade as im doing now
 To install necessary dependencies, run this command:
 
 ```
-npm install inquirer
+npm install
 ```
 
 ## Usage
 
-Install the needed dependencies. Run node index.js. Follow the commands of the gnerator on your term
+Follow install instructions and then the instructions to run generator
 
 ## License
 
@@ -34,7 +34,7 @@ This project is covered under the MIT license.
   
 ## Contributing
 
-Any comments on how to improve code can be sent to eamil 
+Feel free to email or pull
 
 ## Tests
 
@@ -42,13 +42,10 @@ To run tests, use this command:
 
 ```
 node index.js
-```
+```For a video demonstration of how to use this application, [watch the demo on YouTube](https://youtu.be/zW_TNQWdEMs?si=FYiK68_g8TZ6jhvv).
 
 ## Questions
 
-If you have any questions about this project, feel free to contact me at wilmertdelorbe21@gmial.com.
+If you have any questions about this project, feel free to contact me at wilmertdelorbe21@gmail.com.
 You can find more of my work on GitHub: [wilmertdelorbe](https://github.com/wilmertdelorbe/)
 
-   ## Walkthrough Video
-
-   For a video demonstration of how to use this application, [click here](./demo.mov).
